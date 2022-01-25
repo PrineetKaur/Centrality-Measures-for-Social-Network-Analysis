@@ -1,2 +1,2 @@
-# Centrality-Measures-for-Social-Network-Analysis-for- "GAME OF THRONES"
+# Social-Network-Analysis-for-"GAME OF THRONES"-using-Centrality-Measures
 Project in R
